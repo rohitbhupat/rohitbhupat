@@ -1,64 +1,73 @@
 # Hi, I'm Rohit Bhupat 👋
 
-### AWS Cloud Operations & Automation Engineer | 2× AWS Certified | Python | Linux | Serverless | DevOps
+### AWS Cloud Operations & Automation | 2× AWS Certified | Python · Boto3 · Serverless · Linux
 
-I work with cloud infrastructure and automation, with a focus on building reliable AWS environments and simplifying operational work through scripting and repeatable workflows.
-
-My experience spans AWS cloud operations, serverless application development, infrastructure troubleshooting, security and audit automation, and cloud cost visibility. I enjoy turning manual processes into practical tools and building projects that solve real-world problems.
+I work at the intersection of **AWS cloud operations, automation, and software development**. At **Cloud.in**, I support and troubleshoot AWS infrastructure while building the automation, reporting, and event-driven workflows that replace repetitive manual work.
 
 ---
 
-## What I work on
+## About me
 
-- **Cloud operations:** AWS infrastructure, monitoring, troubleshooting, and operational support.
-- **Automation:** Python and scripting for recurring reports, audits, and operational tasks.
-- **Cloud security:** Security reviews, configuration checks, and audit reporting.
-- **Cost optimisation:** Usage visibility, cost analysis, and actionable recommendations.
-- **Serverless applications:** Event-driven solutions using AWS managed services.
-- **DevOps and infrastructure as code:** Building skills in Docker, Terraform, CI/CD, and deployment automation.
+- 💼 **Role:** Technical Support Executive (AWS/Linux) at Cloud.in
+- ☁️ **Certified:** AWS Developer Associate (DVA-C02) · AWS Cloud Practitioner (CLF-C02)
+- 🎯 **Focus:** Cloud Engineering, Cloud Automation, DevOps / Platform Engineering
+
+## What I do
+
+**☁️ Cloud operations & support**
+- Monitor AWS infrastructure and troubleshoot cloud and Linux issues
+- Create and manage IAM users, roles, and access policies
+- Plan and run patching activities for Linux servers
+- Carry out server and data migrations with minimal downtime
+- Manage backup and restore for servers, volumes (EBS), and databases
+- Handle security groups, IP allowlisting, SSH access, and VPN (Pritunl) access
+
+**⚙️ Automation & reporting**
+- Automate monthly and quarterly AWS infrastructure and cost reports using Python, Boto3, and JavaScript
+- Build CloudWatch Logs-to-S3 export workflows with Lambda, EventBridge, and Step Functions
+- Automate daily AWS Braket usage reporting
+
+**🔐 Security, CDN & audits**
+- Support security reviews and audit reporting
+- Configure CloudFront, including geo-restriction and Terraform-based replica setups
+
+**🤝 Knowledge sharing**
+- Run internal sessions on AWS automation with Python and Boto3
+
+*Company-specific scripts and client details are not published here.*
 
 ## Tech stack
 
-**Cloud & AWS**  
-AWS · IAM · EC2 · S3 · Lambda · API Gateway · DynamoDB · CloudFront · CloudWatch · AWS Glue · Athena · CloudFormation
-
-**Languages & frameworks**  
-Python · JavaScript · Bash · React · Node.js · Express.js · Django
-
-**DevOps & tools**  
-Linux · Git · GitHub · CI/CD · CodePipeline · CodeBuild
+**AWS:** EC2 · S3 · IAM · VPC · RDS · Lambda · API Gateway · DynamoDB · CloudFront · CloudWatch · EventBridge · Step Functions · Cognito · CloudFormation · Glue · Athena  
+**Languages:** Python · JavaScript · Bash  
+**Frameworks:** Node.js · Express · Django · React  
+**Linux & ops:** Ubuntu · Cron · Logrotate · Nginx · Apache · Tomcat  
+**Tools:** Git · Terraform · CodePipeline · CodeBuild  
+**Databases:** PostgreSQL · MySQL · MongoDB · DynamoDB
 
 ## Featured projects
 
-### [ResQNow](https://github.com/rohitbhupat/resqnow)
-A real-time disaster alert and emergency response platform designed to connect citizens, volunteers, and NGOs. Built around AWS services and a React-based interface, with features for SOS alerts and response coordination.
+### 🚨 [ResQNow](https://github.com/rohitbhupat/resqnow)
+Serverless disaster alert and emergency response platform connecting citizens, volunteers, and NGOs through SOS alerts and response coordination.  
+`React` `Lambda` `API Gateway` `DynamoDB` `Cognito` `AppSync` `SNS` `Mapbox`
 
-**Focus:** AWS · Serverless · React · Real-time applications
+### 🎨 [Artiv Auction](https://github.com/rohitbhupat/artiv-auction)
+Online art auction platform with live bidding, AR previews, and 360° artwork views.  
+`Python` `Django` `PostgreSQL` `WebXR` `Three.js` `OpenCV`
 
-### [Artiv Auction](https://github.com/rohitbhupat/artiv-auction)
-An online art auction platform where users can explore, bid on, and sell artwork. The project includes immersive artwork experiences such as AR previews and 360° views, alongside live bidding features.
+## Other things I've built
 
-**Focus:** JavaScript · Web development · AR · Real-time features
+- **AWS infrastructure report:** Python/Boto3 tool that scans an account and compiles a full inventory covering ALB, EC2, RDS, S3, IAM, Lambda, CloudWatch, SNS, SQS, Secrets Manager, Elastic IPs, VPC, CloudFront distributions, WAF, ECR, EKS, and Kinesis
+- **AWS security audit report:** Automated review that flags open ports in security groups, old IAM access keys, unused IAM roles and over-permissive policies, and gaps in WAF, CloudFront, and ALB configuration
 
-### Other areas I've explored
+## Currently learning
 
-- **Resume analysis:** A serverless resume-processing workflow using Amazon S3, Textract, and Comprehend.
-- **Cloud data pipelines:** Data ingestion and analysis workflows using Amazon S3, AWS Glue, and Amazon Athena.
-- **Cloud security automation:** Scripts and reporting workflows for reviewing AWS infrastructure and highlighting security-related findings.
+Terraform · Docker · Kubernetes · CI/CD (GitHub Actions, Jenkins) · Monitoring and observability
 
-## Currently learning and improving
+## Connect
 
-- AWS architecture and best practices
-- Docker and containerised workloads
-- Terraform and infrastructure as code
-- Jenkins and CI/CD automation
-- DevOps and cloud platform engineering
-
-## Let's connect
-
-- **LinkedIn:** [Rohit Bhupat](https://www.linkedin.com/in/rohit-bhupat-554325237/)
-- **GitHub:** [@rohitbhupat](https://github.com/rohitbhupat)
+[LinkedIn](https://www.linkedin.com/in/rohit-bhupat-554325237/) · [GitHub](https://github.com/rohitbhupat)
 
 ---
 
-*I’m interested in cloud engineering, AWS automation, DevOps, and building useful tools that make infrastructure easier to operate.*
+*I enjoy building cloud systems that are scalable, secure, and cost-aware. Feel free to explore my repos and say hi!*
