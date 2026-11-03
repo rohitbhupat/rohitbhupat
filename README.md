@@ -8,7 +8,7 @@ I work at the intersection of **AWS cloud operations, automation, and software d
 
 ## About me
 
-- 💼 **Role:** Technical Support Executive (AWS/Linux) at Cloud.in
+- 💼 **Role:** Cloud Support Engineer at Cloud.in
 - ☁️ **Certified:** AWS Developer Associate (DVA-C02) · AWS Cloud Practitioner (CLF-C02)
 - 🎯 **Focus:** Cloud Engineering, Cloud Automation, DevOps / Platform Engineering
 
